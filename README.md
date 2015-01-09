@@ -1,2 +1,2 @@
-# JogoDaForca_Python
-Jogo da Forca bem simples
+# Jogo da Forca escrito em Python
+Jogo da Forca bem simples, escrito por alguém que está começando a interagir com o python...
